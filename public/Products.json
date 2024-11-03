@@ -1,0 +1,174 @@
+[
+    {
+      "product_id": "E001",
+      "product_title": "Apple iPhone 14 Pro",
+      "product_image": "https://i.ibb.co.com/JnmC7h3/pngwing-com.png",
+      "category": "Mobile",
+      "price": 999.99,
+      "description": "Apple's latest iPhone 14 Pro with 6.1-inch Super Retina XDR display, A16 Bionic chip, and improved cameras.",
+      "specification": [
+        "6.1-inch Super Retina XDR display",
+        "A16 Bionic chip",
+        "48MP main camera",
+        "5G capable",
+        "Face ID"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Apple",
+      "storage": "128GB"
+    },
+    {
+      "product_id": "E002",
+      "product_title": "Samsung Galaxy S23 Ultra",
+      "product_image": "https://i.ibb.co.com/NLpXcVn/vecteezy-samsung-galaxy-s23-ultra-black-transparent-image-35572095.png",
+      "category": "Mobile",
+      "price": 1199.99,
+      "description": "Samsung Galaxy S23 Ultra with 6.8-inch Dynamic AMOLED 2X display, 200MP camera, and long-lasting battery.",
+      "specification": [
+        "6.8-inch Dynamic AMOLED 2X",
+        "200MP main camera",
+        "5000mAh battery",
+        "S Pen support",
+        "5G capable"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Samsung",
+      "storage": "256GB"
+    },
+    {
+      "product_id": "E003",
+      "product_title": "Dell XPS 13 Laptop",
+      "product_image": "https://i.ibb.co.com/1vpQ53g/pngwing-com-1.png",
+      "category": "Laptop",
+      "price": 1299.99,
+      "description": "Powerful and sleek 13.4-inch laptop with Intel Core i7, 16GB RAM, and InfinityEdge display.",
+      "specification": [
+        "13.4-inch FHD+ display",
+        "Intel Core i7",
+        "16GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "availability": true,
+      "rating": 4.5,
+      "brand": "Dell",
+      "color": "Silver"
+    },
+    {
+      "product_id": "E004",
+      "product_title": "Apple MacBook Air M2",
+      "product_image": "https://i.ibb.co.com/WpqDJ2T/NAy-K3-Fg-Abkwx-VFqb339-Y7-E-1200-80-png.webp",
+      "category": "Laptop",
+      "price": 1199.99,
+      "description": "13.6-inch MacBook Air with M2 chip, 8-core CPU, and up to 18 hours of battery life.",
+      "specification": [
+        "13.6-inch Liquid Retina display",
+        "Apple M2 chip",
+        "8GB RAM",
+        "256GB SSD",
+        "macOS"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Apple",
+      "color": "Midnight"
+    },
+    {
+      "product_id": "E005",
+      "product_title": "Google Pixel 7 Pro",
+      "product_image": "https://i.ibb.co.com/V9Ht6ys/google-pixel-7-pro-256gb-white-1000x1000.webp",
+      "category": "Mobile",
+      "price": 899.99,
+      "description": "Google Pixel 7 Pro with Google Tensor G2 chip, 6.7-inch display, and advanced camera system.",
+      "specification": [
+        "6.7-inch LTPO OLED display",
+        "Google Tensor G2",
+        "50MP main camera",
+        "5G capable",
+        "Android 13"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Google",
+      "storage": "128GB"
+    },
+    {
+      "product_id": "E006",
+      "product_title": "Sony WH-1000XM5 Wireless Headphones",
+      "product_image": "https://i.ibb.co.com/mSp9cmT/WH1000-XM5-B.png",
+      "category": "Headphones",
+      "price": 349.99,
+      "description": "Industry-leading noise-canceling over-ear headphones with 30 hours of battery life and Alexa voice control.",
+      "specification": [
+        "Noise cancellation",
+        "Bluetooth 5.0",
+        "Up to 30 hours battery life",
+        "Touch controls",
+        "Alexa built-in"
+      ],
+      "availability": true,
+      "rating": 4.6,
+      "brand": "Sony",
+      "color": "Black"
+    },
+    {
+      "product_id": "E007",
+      "product_title": "Bose QuietComfort 45 Headphones",
+      "product_image": "https://i.ibb.co.com/9nVqZjk/QCHLE24-Moonstone-Blue-PDP-GALLERY-SF-01.webp",
+      "category": "Headphones",
+      "price": 329.99,
+      "description": "Over-ear headphones with advanced noise-canceling technology and 24 hours of battery life.",
+      "specification": [
+        "Active noise cancellation",
+        "Bluetooth 5.1",
+        "Up to 24 hours playtime",
+        "USB-C charging",
+        "Lightweight design"
+      ],
+      "availability": true,
+      "rating": 4.7,
+      "brand": "Bose",
+      "color": "Black"
+    },
+    {
+      "product_id": "E008",
+      "product_title": "Samsung Galaxy Tab S8 Ultra",
+      "product_image": "https://i.ibb.co.com/c3C2R0x/oy8ldywzls2jl32nrucq.webp",
+      "category": "Tablet",
+      "price": 1099.99,
+      "description": "14.6-inch tablet with Super AMOLED display, Snapdragon 8 Gen 1, and S Pen support.",
+      "specification": [
+        "14.6-inch Super AMOLED",
+        "Snapdragon 8 Gen 1",
+        "5G capable",
+        "S Pen included",
+        "12GB RAM"
+      ],
+      "availability": true,
+      "rating": 4.8,
+      "brand": "Samsung",
+      "storage": "256GB"
+    },
+    {
+      "product_id": "E009",
+      "product_title": "Canon EOS R5 Mirrorless Camera",
+      "product_image": "https://i.ibb.co.com/fkcjP4N/canon-eos-r5-mirrorless-digital-1594281159-1573879.jpg",
+      "category": "Camera",
+      "price": 3899.99,
+      "description": "High-performance mirrorless camera with 45MP sensor and 8K video recording capabilities.",
+      "specification": [
+        "45MP full-frame sensor",
+        "8K video recording",
+        "5-axis in-body stabilization",
+        "20fps continuous shooting",
+        "Dual Pixel CMOS AF"
+      ],
+      "availability": true,
+      "rating": 4.9,
+      "brand": "Canon",
+      "color": "Black"
+    }
+  ]
+  
