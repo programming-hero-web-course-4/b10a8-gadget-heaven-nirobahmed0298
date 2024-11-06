@@ -1,6 +1,6 @@
 [
     {
-      "product_id": "E001",
+      "product_id": 1,
       "product_title": "Apple iPhone 14 Pro",
       "product_image": "https://i.ibb.co.com/JnmC7h3/pngwing-com.png",
       "category": "Mobile",
@@ -19,7 +19,7 @@
       "storage": "128GB"
     },
     {
-      "product_id": "E002",
+      "product_id": 2,
       "product_title": "Samsung Galaxy S23 Ultra",
       "product_image": "https://i.ibb.co.com/NLpXcVn/vecteezy-samsung-galaxy-s23-ultra-black-transparent-image-35572095.png",
       "category": "Mobile",
@@ -38,7 +38,7 @@
       "storage": "256GB"
     },
     {
-      "product_id": "E003",
+      "product_id": 3,
       "product_title": "Dell XPS 13 Laptop",
       "product_image": "https://i.ibb.co.com/1vpQ53g/pngwing-com-1.png",
       "category": "Laptop",
@@ -57,7 +57,7 @@
       "color": "Silver"
     },
     {
-      "product_id": "E004",
+      "product_id": 4,
       "product_title": "Apple MacBook Air M2",
       "product_image": "https://i.ibb.co.com/WpqDJ2T/NAy-K3-Fg-Abkwx-VFqb339-Y7-E-1200-80-png.webp",
       "category": "Laptop",
@@ -76,7 +76,7 @@
       "color": "Midnight"
     },
     {
-      "product_id": "E005",
+      "product_id": 5,
       "product_title": "Google Pixel 7 Pro",
       "product_image": "https://i.ibb.co.com/V9Ht6ys/google-pixel-7-pro-256gb-white-1000x1000.webp",
       "category": "Mobile",
@@ -95,7 +95,7 @@
       "storage": "128GB"
     },
     {
-      "product_id": "E006",
+      "product_id": 6,
       "product_title": "Sony WH-1000XM5 Wireless Headphones",
       "product_image": "https://i.ibb.co.com/mSp9cmT/WH1000-XM5-B.png",
       "category": "Headphones",
@@ -108,13 +108,13 @@
         "Touch controls",
         "Alexa built-in"
       ],
-      "availability": true,
+      "availability": false,
       "rating": 4.6,
       "brand": "Sony",
       "color": "Black"
     },
     {
-      "product_id": "E007",
+      "product_id": 7,
       "product_title": "Bose QuietComfort 45 Headphones",
       "product_image": "https://i.ibb.co.com/9nVqZjk/QCHLE24-Moonstone-Blue-PDP-GALLERY-SF-01.webp",
       "category": "Headphones",
@@ -133,7 +133,7 @@
       "color": "Black"
     },
     {
-      "product_id": "E008",
+      "product_id": 8,
       "product_title": "Samsung Galaxy Tab S8 Ultra",
       "product_image": "https://i.ibb.co.com/c3C2R0x/oy8ldywzls2jl32nrucq.webp",
       "category": "Tablet",
@@ -152,7 +152,7 @@
       "storage": "256GB"
     },
     {
-      "product_id": "E009",
+      "product_id": 9,
       "product_title": "Canon EOS R5 Mirrorless Camera",
       "product_image": "https://i.ibb.co.com/fkcjP4N/canon-eos-r5-mirrorless-digital-1594281159-1573879.jpg",
       "category": "Camera",

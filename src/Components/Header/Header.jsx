@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-router-dom';
+import { Link, NavLink } from 'react-router-dom';
 import { GiShoppingCart } from "react-icons/gi";
 import { FaRegHeart } from "react-icons/fa";
 const Header = () => {
@@ -7,12 +7,13 @@ const Header = () => {
         <li><NavLink to='/'>Home</NavLink></li>
         <li><a>Statistics</a></li>
         <li><NavLink to='/dashboard'>Dashboard</NavLink></li>
+        <li><NavLink to='/about'>About Us</NavLink></li>
     </>
     return (
         <div className='px-5 pt-5'>
             <div className='bg-[#9538E2] text-white rounded-t-xl'>
-                <div className='w-11/12 mx-auto'>
-                    <div className="navbar">
+                <div className='w-10/12 mx-auto'>
+                    <div id='sidebar' className="navbar">
                         <div className="navbar-start">
                             <div className="dropdown">
                                 <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
@@ -31,11 +32,11 @@ const Header = () => {
                                 </div>
                                 <ul
                                     tabIndex={0}
-                                    className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
+                                    className="text-black menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
                                     {links}
                                 </ul>
                             </div>
-                            <NavLink to='/' className="text-xl font-semibold">Gadget Heaven</NavLink>
+                            <Link to='/' className="text-xl font-semibold">Gadget Heaven</Link>
                         </div>
                         <div className="navbar-center hidden lg:flex">
                             <ul className="menu menu-horizontal px-1">
