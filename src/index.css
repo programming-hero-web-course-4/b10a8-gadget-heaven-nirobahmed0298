@@ -9,3 +9,7 @@ body{
     color: #9538E2;
     background:white;
   }
+#navlink a.active {
+    background-color: #9538E2;
+    color:white;
+  }

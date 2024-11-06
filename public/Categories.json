@@ -1,9 +1,5 @@
 [
     {
-        "product_id": 1,
-        "category": "All Products"
-    },
-    {
         "product_id": 2,
         "category": "Mobile"
     },

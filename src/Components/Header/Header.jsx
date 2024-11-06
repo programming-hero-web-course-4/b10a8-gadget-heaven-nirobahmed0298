@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, NavLink } from 'react-router-dom';
+import { Link, NavLink, useLocation } from 'react-router-dom';
 import { GiShoppingCart } from "react-icons/gi";
 import { FaRegHeart } from "react-icons/fa";
 const Header = () => {
@@ -9,6 +9,7 @@ const Header = () => {
         <li><NavLink to='/dashboard'>Dashboard</NavLink></li>
         <li><NavLink to='/about'>About Us</NavLink></li>
     </>
+    let location = useLocation();
     return (
         <div className='px-5 pt-5'>
             <div className='bg-[#9538E2] text-white rounded-t-xl'>
